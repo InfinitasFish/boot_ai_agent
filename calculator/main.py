@@ -1,5 +1,7 @@
 # calculator/main.py
 
+# this thing exist only for testing how agent utilises tools
+
 import sys
 from pkg.calculator import Calculator
 from pkg.render import format_json_output
@@ -27,3 +29,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
